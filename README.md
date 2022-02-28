@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django,Opencv**
 
-- 📝 I regularly write articles on [https://traveltechieamz.blogspot.com/](https://traveltechieamz.blogspot.com/)
+- 📝 I  write articles on [https://traveltechieamz.blogspot.com/](https://traveltechieamz.blogspot.com/)
 
 - 💬 Ask me about **Tenserflow,Opencv**
 
