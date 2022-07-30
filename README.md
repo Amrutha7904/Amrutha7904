@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrutha O S</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Unity developer from India</h3>
 
 - 🌱 I’m currently learning **3D modeling in Blender, unity**
 
